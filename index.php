@@ -8,7 +8,7 @@ include("inc/header.php"); ?>
 
 				<h2>May we suggest something?</h2>
 
-         
+        <ul class="items">
             <li>
                 <a href="#">
                     <img src="img/media/forest_gump.jpg" alt="Forrest Gump">
